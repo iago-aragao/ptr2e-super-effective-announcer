@@ -10,7 +10,7 @@ This module plays a synchronized screen-space animation and sound when a PTR2e a
 
 Paste this manifest URL into Foundry's **Install Module** dialog:
 
-`https://raw.githubusercontent.com/Umbura/ptr2e-super-effective-announcer/main/module.json`
+`https://raw.githubusercontent.com/iago-aragao/ptr2e-super-effective-announcer/main/module.json`
 
 The module also requires Sequencer. Install Sequencer first if it is not already active:
 
